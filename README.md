@@ -33,7 +33,7 @@ Planzo Frontend is a React-based web application designed to interact seamlessly
 3. Configure the environment variables:
    Create a `.env` file in the root directory and add:
    ```env
-   REACT_APP_API_BASE_URL=http://localhost:3000/api/v1
+   REACT_APP_API_BASE_URL=http://localhost:3000
    ```
 
 4. Start the development server:
